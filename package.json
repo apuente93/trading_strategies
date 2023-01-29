@@ -1,0 +1,11 @@
+{
+  "name": "trading_strategies",
+  "version": "1.0.0",
+  "description": "TDAmeritrade stock trading strategies using technical analysis",
+  "main": "all_strategies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Puente",
+  "license": "ISC"
+}

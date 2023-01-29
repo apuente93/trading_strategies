@@ -1,0 +1,1 @@
+#Strategy 1: Moving averages and RSI

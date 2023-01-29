@@ -1,0 +1,1 @@
+#Runs all trading strategies asynchronously
